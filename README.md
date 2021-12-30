@@ -1,3 +1,5 @@
+bide yazmayi unutmusum owsla stats cok iyi
+
 # Owsla Bot's
 
 Öncelikle şunu söyleyeyim OWSLA ile bir sıkıntım yoktur, OWSLA'nın botlarını Acar paylaşmış ondan görüp ben neden paylaşmıyorum diyip paylaştım İyi Kullanmalar.
