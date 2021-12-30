@@ -1,2 +1,8 @@
-# owsla-bots
-Owsla ile bir sıkıntım yok @acarfx atmış ondan görüp atayım dedim iyi kullanmalar
+# Owsla Bot's
+
+Öncelikle şunu söyleyeyim OWSLA ile bir sıkıntım yoktur, OWSLA'nın botlarını Acar paylaşmış ondan görüp ben neden paylaşmıyorum diyip paylaştım İyi Kullanmalar.
+
+# Nasıl kurcam
+Aq ben nerden bilim gidin sorun acar butonuna tıkla dcsine sor.
+
+[acar](https://github.com/acarfx)
